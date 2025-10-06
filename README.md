@@ -1,9 +1,9 @@
 <div align="center">
 	<a target="_blank" href="https://gitforcetalent.com">
         <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://gitforcetalent.com/_next/image?url=%2Fimages%2Flogo-light.png&w=1920&q=75">
-            <source media="(prefers-color-scheme: light)" srcset="https://gitforcetalent.com/_next/image?url=%2Fimages%2Flogo.png&w=1920&q=75">
-            <img alt="https://gitforcetalent.com" src="https://gitforcetalent.com/_next/image?url=%2Fimages%2Flogo.png">
+            <source media="(prefers-color-scheme: dark)" srcset="https://www.gitforce.ai/images/darklogo.webp">
+            <source media="(prefers-color-scheme: light)" srcset="https://www.gitforce.ai/images/darklogo.webp">
+            <img alt="https://gitforcetalent.com" src="https://www.gitforce.ai/images/darklogo.webp">
         </picture>
 	</a>
     <br />
@@ -40,3 +40,4 @@ This task requires you to implement a Node.js module that can watch for file cha
 - Correctness: Ensure that the implemented solution accurately detects and handles file changes in the S3 environment.
 - Code Quality: Write clean, maintainable, and modular code following best practices.
 - Deployment: Successful deployment and execution of the module on an AWS EC2 server.
+
